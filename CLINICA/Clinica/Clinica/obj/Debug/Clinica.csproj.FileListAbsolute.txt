@@ -1,0 +1,23 @@
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\obj\Debug\Clinica.Form1.resources
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\obj\Debug\Clinica.tela_inicial.resources
+C:\Users\Joao victor\Documents\Visual Studio 2017\Projects\Clinica\Clinica\obj\Debug\Clinica.cadastro_clientes.resources
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\obj\Debug\Clinica.csproj.AssemblyReference.cache
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\obj\Debug\Clinica.cadastro_clientes.resources
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\obj\Debug\Clinica.Form1.resources
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\obj\Debug\Clinica.tela_inicial.resources
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.cache
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\JOAO\Documents\PROJETINHOS\CLINICA\Clinica\Clinica\obj\Debug\Clinica.pdb
