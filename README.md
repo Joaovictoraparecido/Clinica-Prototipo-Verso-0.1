@@ -11,4 +11,7 @@ SEGUE ABAIXO FOTOS DO PROJETO:
 -CADASTRO DE CLIENTE:
 ![image](https://github.com/Joaovictoraparecido/Clinica-Prot-tipo-Vers-o-0.1-/assets/115484907/11830d5e-5629-493f-93ea-ceb974cfafdb)
 
+-CLIENTE CADASTRADO:
+![image](https://github.com/Joaovictoraparecido/Clinica-Prototipo-Verso-0.1/assets/115484907/92a448b9-6f6c-4cc9-8e22-72b95a0e65a7)
+
 
